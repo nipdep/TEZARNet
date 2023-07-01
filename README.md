@@ -1,5 +1,4 @@
-# TEZARNet
-TEmporal Zero-shot Activity Recognition Network
+# TEZARNet - TEmporal Zero-shot Activity Recognition Network
 
 ## Abstract
 
