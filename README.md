@@ -30,5 +30,11 @@ Most existing Zero-Shot Human Activity Recognition (ZS-HAR) methods based on Ine
     
 ## Citation 
 ```
-<In review>
+@inproceedings{deelaka2023texarnet,
+  title={TEZARNet - TEmporal Zero-shot Activity Recognition Network},
+  author={Deelaka, Pathirage N. and Y. De Silva, Devin and Wickramanayake, Sandareka and Meedeniya, Dulani and Rasnayaka, Sanka},
+  booktitle={International Conference on Neural Information Processing},
+ year={2023},
+ organization={Springer}
+}
 ```
